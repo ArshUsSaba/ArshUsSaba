@@ -1,48 +1,44 @@
 <div align="center">
 
-<img src="https://presidencyuniversity.in/assets/images/logo.png" alt="Presidency University Logo" width="140" />
+
 
 # Arsh Us Saba
 
-### B.Tech Computer Science and Engineering Student  
-### Presidency University, Bengaluru
+<img src="https://presidencyuniversity.in/assets/images/logo.png" alt="Presidency University Logo" width="140" />
+### B.Tech Computer Science and Engineering  
+
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Student-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Academics%20%26%20Career-111111?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-AI%20%26%20ML-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Bengaluru-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## About
+## About Me
 
-<div>
-
-Arsh Us Saba is a B.Tech CSE student at Presidency University, Bengaluru, currently in the post-4th semester stage of the program.  
-The academic focus is on building a strong foundation in computer science, improving problem-solving ability, and developing practical readiness for software and technology-related roles.
-
-</div>
+I am Arsh Us Saba, a Computer Science and Engineering student at Presidency University, Bengaluru.  
+My primary areas of interest are Full Stack Development and Artificial Intelligence & Machine Learning. I build practical technology solutions, strengthening programming fundamentals, and continuously improving my technical and problem-solving skills through hands-on learning.
 
 ---
 
-## Academic Profile
+## Academic Information
 
 | Field | Details |
 |---|---|
 | Name | Arsh Us Saba |
-| College | Presidency University, Bengaluru |
-| Program | B.Tech in Computer Science and Engineering |
-| Current Stage | Completed 4th Semester |
+| University | Presidency University, Bengaluru |
+| Degree | B.Tech in Computer Science and Engineering |
 | Location | Bengaluru, India |
 
 ---
 
-## Skill Set
+## Technical Skill Set
 
 ### Languages
 <p>
@@ -54,7 +50,9 @@ The academic focus is on building a strong foundation in computer science, impro
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Tools
+---
+
+### Development & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -62,48 +60,36 @@ The academic focus is on building a strong foundation in computer science, impro
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Academic Interests
-- Software Development
+---
+
+## Areas of Interest
+
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
 - Web Technologies
 - Database Management
-- Problem Solving
-- Learning by Building
 
 ---
 
-## Current Focus
+## Professional Objective
 
-| Area | Priority |
-|---|---|
-| Academic Performance | High |
-| Core CS Concepts | High |
-| Practical Coding | High |
-| Portfolio Development | Medium |
-| Professional Readiness | High |
+I aim to build strong expertise in software engineering, Full Stack Development, and AI/ML by working on practical projects, learning modern technologies, and continuously improving my development workflow and technical understanding.
 
 ---
 
-## Work-Related Direction
-
-- Seeking practical exposure through meaningful internship opportunities
-- Interested in roles that involve software, web, and technical learning
-- Focused on building a disciplined and credible profile
-- Open to work that strengthens technical and professional growth
-
----
-
-## Connections
+## Connect With Me
 
 | Platform | Link |
 |---|---|
-| Email |  |
+| Email | arshussaba@gmail.com |
 | LinkedIn |  |
-| GitHub |  |
-| Portfolio |  |
+| GitHub | ArshUsSaba |
 
 ---
 
 <div align="center">
 
+### Building with consistency, curiosity, and practical learning.
 
 </div>
