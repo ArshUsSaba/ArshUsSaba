@@ -1,95 +1,86 @@
+<!-- Dark, compact GitHub Profile README -->
+
 <div align="center">
-
-
 
 # Arsh Us Saba
 
-<img src="https://presidencyuniversity.in/assets/images/logo.png" alt="Presidency University Logo" width="140" />
-### B.Tech Computer Science and Engineering  
-
+<img src="https://img.shields.io/badge/Presidency%20University-Bengaluru-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%2FML-6E40C9?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Profile-Computer%20Science%20Student-00C853?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-AI%20%26%20ML-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
 
 ---
 
 ## About Me
 
-I am Arsh Us Saba, a Computer Science and Engineering student at Presidency University, Bengaluru.  
-My primary areas of interest are Full Stack Development and Artificial Intelligence & Machine Learning. I build practical technology solutions, strengthening programming fundamentals, and continuously improving my technical and problem-solving skills through hands-on learning.
+I am a B.Tech Computer Science and Engineering student at Presidency University, Bengaluru. My primary interests are Full Stack Development and Artificial Intelligence / Machine Learning. I value practical learning, clean engineering, and disciplined improvement through consistent work.
 
 ---
 
-## Academic Information
+## Academic Details
 
 | Field | Details |
 |---|---|
-| Name | Arsh Us Saba |
 | University | Presidency University, Bengaluru |
 | Degree | B.Tech in Computer Science and Engineering |
+| Interest Areas | Full Stack Development, AI/ML |
 | Location | Bengaluru, India |
 
 ---
 
-## Technical Skill Set
+## Skill Set
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-### Development & Tools
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## Areas of Interest
+## Focus Areas
 
 - Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Web Technologies
-- Database Management
+- Backend Logic
+- Frontend Engineering
+- AI/ML Fundamentals
+- Database Design
+- Problem Solving
 
 ---
 
-## Professional Objective
+## Academic Direction
 
-I aim to build strong expertise in software engineering, Full Stack Development, and AI/ML by working on practical projects, learning modern technologies, and continuously improving my development workflow and technical understanding.
+I am building a strong foundation in computer science while gradually improving my practical capability in software development. My goal is to become technically reliable in full stack systems and develop the depth required to work with AI/ML responsibly.
 
 ---
 
-## Connect With Me
+## Connect
 
 | Platform | Link |
 |---|---|
-| Email | arshussaba@gmail.com |
+| Email |  |
 | LinkedIn |  |
-| GitHub | ArshUsSaba |
+| GitHub |  |
+| Portfolio |  |
 
 ---
 
 <div align="center">
 
-### Building with consistency, curiosity, and practical learning.
+<sub>Minimal. Credible. Focused on engineering depth.</sub>
 
 </div>
