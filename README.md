@@ -63,7 +63,7 @@ I am currently directing my learning and development towards establishing techni
 > *Open for technical discussions, collaborative learning, and professional opportunities.*
 
 *   **Email:** `arshussaba@gmail.com`
-*   **LinkedIn:** `linkedin.com/in/yourprofile`
+*   **LinkedIn:** `linkedin.com/in/arsh-us-saba`
 *   **GitHub:** `github.com/ArshUsSaba`
 
 ---
